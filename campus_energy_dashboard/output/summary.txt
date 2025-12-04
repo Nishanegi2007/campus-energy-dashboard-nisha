@@ -1,0 +1,12 @@
+
+=== EXECUTIVE SUMMARY ===
+
+Total Campus Consumption: 141621.61 kWh
+
+Highest Consuming Building: Building_B 
+Total: 48204.56 kWh
+
+Peak Load Timestamp: 2024-01-04 21:00:00
+
+Daily Trend: Min=4029.94 kWh | Max=5381.72 kWh
+Weekly Trend: Min=9415.11 kWh | Max=34934.40 kWh
